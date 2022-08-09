@@ -6,7 +6,6 @@
 header{
     height: 200px;
     background-color: #ffffff;
-    border-bottom: 5px solid #eae6db;
 }
 
 h1{
@@ -15,13 +14,19 @@ h1{
 
 }
 
+nav{
+    background-color: #ffffff;
+}
+
+
+
 main{
     background-color:blue;
-    height: 500px;
+    height: auto;
 }
 
 main div section{
-    height: 50px;
+    height: auto;
     background-color: green;
 }
 
@@ -30,17 +35,21 @@ aside section:nth-child(2){
 }
 
 aside{
-    height: 500px;
+    height: auto;
     background-color: wheat;
 }
 
 aside section{
-    height: 50px ;
+    height: auto ;
     background-color: black;
 }
 
+aside li ul{
+    padding-inline-start: 20px;
+}
+
 footer{
-    height:auto;
+    height: auto;
     background-color: #ffffff;
 }
 
