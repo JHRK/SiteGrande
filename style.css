@@ -1,0 +1,48 @@
+*{
+    font-family: Roboto Mono;
+    color: #2336d3;
+}
+
+header{
+    height: 200px;
+    background-color: #ffffff;
+    border-bottom: 5px solid #eae6db;
+}
+
+h1{
+    color:#f30008;
+    font-family: Work Sans;
+
+}
+
+main{
+    background-color:blue;
+    height: 500px;
+}
+
+main div section{
+    height: 50px;
+    background-color: green;
+}
+
+aside section:nth-child(2){
+    background-color: hotpink;
+}
+
+aside{
+    height: 500px;
+    background-color: wheat;
+}
+
+aside section{
+    height: 50px ;
+    background-color: black;
+}
+
+footer{
+    height:auto;
+    background-color: #ffffff;
+}
+
+
+https://huemint.com/website-3/#palette=ffffff-eae6db-ec1c43-2336d3-f30008-2fef49
