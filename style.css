@@ -1,17 +1,30 @@
 *{
     font-family: Roboto Mono;
     color: #2336d3;
+
 }
 
 header{
     height: 200px;
     background-color: #ffffff;
+    text-align: justify;
 }
+
 
 h1{
     color:#f30008;
     font-family: Work Sans;
+    padding-left: 43%;
+    padding-top: 2%;
+}
 
+h2{
+    color: black;
+}
+
+h3{
+    background-color: #2336d3;
+    color: #ffffff;
 }
 
 nav{
@@ -19,33 +32,41 @@ nav{
 }
 
 
-
 main{
-    background-color:blue;
     height: auto;
+    text-align: justify;
+}
+
+main img{
+    max-width: 80%;
 }
 
 main div section{
     height: auto;
-    background-color: green;
 }
 
-aside section:nth-child(2){
-    background-color: hotpink;
-}
 
 aside{
     height: auto;
-    background-color: wheat;
+
+}
+
+aside nav{
+    color: black;
 }
 
 aside section{
     height: auto ;
-    background-color: black;
+
 }
 
 aside li ul{
     padding-inline-start: 20px;
+}
+
+aside img{
+    width: 200px;
+    padding: 2%;
 }
 
 footer{
@@ -53,5 +74,3 @@ footer{
     background-color: #ffffff;
 }
 
-
-https://huemint.com/website-3/#palette=ffffff-eae6db-ec1c43-2336d3-f30008-2fef49
