@@ -72,6 +72,11 @@ nav input{
     border: 0;
 }
 
+input{
+    cursor: url(./img/Write.png),auto;;
+}
+
+
 aside{
     height: auto;
 
