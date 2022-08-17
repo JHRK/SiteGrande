@@ -8,6 +8,7 @@ header{
     height: 200px;
     background-color: #ffffff;
     text-align: justify;
+    border-bottom: 5px solid #f30008;
 }
 
 
@@ -35,6 +36,10 @@ nav{
 main{
     height: auto;
     text-align: justify;
+}
+
+main a{
+    float: right;
 }
 
 main img{
@@ -66,7 +71,6 @@ aside li ul{
 
 aside img{
     width: 200px;
-    padding: 2%;
 }
 
 footer{
