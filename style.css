@@ -36,10 +36,15 @@ nav{
 main{
     height: auto;
     text-align: justify;
+
 }
 
-main a{
+main button{
     float: right;
+    margin-top: 5%;
+    background-color: #2336d3;
+    color: #ffffff;
+    border: 0;
 }
 
 main img{
@@ -53,6 +58,7 @@ main div section{
 
 aside{
     height: auto;
+
 
 }
 
@@ -71,6 +77,7 @@ aside li ul{
 
 aside img{
     width: 200px;
+    padding-left: 20%;
 }
 
 footer{
