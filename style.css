@@ -4,6 +4,13 @@
 
 }
 
+html{
+    cursor: url(./img/Cursor1.png),auto;
+}
+
+
+
+
 header{
     height: 200px;
     background-color: #ffffff;
@@ -15,9 +22,10 @@ header{
 h1{
     color:#f30008;
     font-family: Work Sans;
-    padding-left: 43%;
+    padding-left: 44%;
     padding-top: 2%;
 }
+
 
 h2{
     color: black;
@@ -56,6 +64,10 @@ main div section{
 }
 
 
+button{
+        cursor: url(./img/Cursor2.png),auto;
+}
+
 aside{
     height: auto;
 
@@ -85,3 +97,11 @@ footer{
     background-color: #ffffff;
 }
 
+
+
+
+main section h5{
+    color: #ffffff;
+    background-color: #f30008;
+    width: fit-content;
+}
